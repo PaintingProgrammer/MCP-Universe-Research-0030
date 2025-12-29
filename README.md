@@ -1,4 +1,4 @@
 # MCP-Universe-Research
 A comprehensive evaluation framework for LLMs to use the novel MCP technique.
 
-Reference: [MCP GitHub Repository](https://github.com/modelcontextprotocol)
+For more information about MCP, please visit the official [Model Context Protocol GitHub repository](https://github.com/modelcontextprotocol/servers).
